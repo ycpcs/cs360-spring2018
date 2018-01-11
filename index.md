@@ -18,6 +18,23 @@ All information about the course will be posted here.
 ## News
 
 * **Jan 17** - Welcome back!
+* **Jan 29** - Assignment 1 Due
+* **Feb 5* - Assignment 2 Due
+* **Feb 7 - EXAM I. Take home due in class Mon, Feb 12**
+* **Feb 19** - Assignment 3 Due
+* **Feb 23** - Assignment 4 Due
+* **Feb 26, 28, Mar 2 - NO CLASS (Winter Break)**
+* **Mar 9** - Empirical Comparison Report Due
+* **Mar 9 - EXAM II. Take home due in class Wed, Mar 14**
+* **Mar 21** - Assignment 5 Due
+* **Mar 28** - Assignment 6 Due
+* **Mar 30, Apr 2 - NO CLASS (Spring Break)**
+* **Apr 4** - Assignment 7 Due
+* **Mar 31 - EXAM III. Take home due in class Wed, Apr 5**
+* **Apr 18** - Assignment 8 Due
+* **Apr 25** - Assignment 9 Due
+* **Apr 27 - EXAM IV. Take home due in class Wed, May 2**
+* **May 7, 9 - Final Project Due.** Email a .pdf to dbabcock@ycp.edu by noon 5/9 for the final report.
 
 <!--
 * **Jan 18** - Welcome back!
