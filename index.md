@@ -19,7 +19,7 @@ All information about the course will be posted here.
 
 * **Jan 17** - Welcome back!
 * **Jan 29** - Assignment 1 Due
-* **Feb 5* - Assignment 2 Due
+* **Feb 5** - Assignment 2 Due
 * **Feb 7 - EXAM I. Take home due in class Mon, Feb 12**
 * **Feb 19** - Assignment 3 Due
 * **Feb 23** - Assignment 4 Due
