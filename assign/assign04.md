@@ -18,7 +18,7 @@ Linear sort implementation
 
 > 7.2-2 - For an array with *equal* elements, consider how the array is *sorted*.
 > 
-> 7.2-3 - For an array in *decreasing* order, consider which element is selected as the pivot element during each recursive call and where it is placed once PARTITION() completes. Argue that this behavior produces O(*n*\ :sup:`2`) runtime.
+> 7.2-3 - For an array in *decreasing* order, consider which element is selected as the pivot element during each recursive call and where it is placed once PARTITION() completes. Argue that this behavior produces O(*n*<sup>2</sup>) runtime.
 > 
 > 8.1-4 - (I like these n/k hybrid algorithms) Use an argument similar to the original Θ(n lg n) one in Theorem 8.1 and show that 
 >
