@@ -89,7 +89,7 @@ For the given input array *A[]* (note that *k* = 6, i.e. the largest value in th
 Radix Sort
 ==========
 
-An interesting variation on counting sort is known as *radix sort* which is useful when *k* becomes large. The sort operates by using a stable sort to sort the elements *digitwise* starting with the *most significant digit*. The number of digits *d* of a number *n* is given by *d* = log<sub>b</sub> *n* (where the base of the logarithm *b* is the *radix* of the digits, i.e. the number of values each digit can have - e.g. 10 for decimal). The pseudocode for the algorithm is
+An interesting variation on counting sort is known as *radix sort* which is useful when *k* becomes large. The sort operates by using a stable sort to sort the elements *digitwise* starting with the *least significant digit*. The number of digits *d* of a number *n* is given by *d* = log<sub>b</sub> *n* (where the base of the logarithm *b* is the *radix* of the digits, i.e. the number of values each digit can have - e.g. 10 for decimal). The pseudocode for the algorithm is
 
     RADIX-SORT(A,d)
     1  for i = 1 to d
