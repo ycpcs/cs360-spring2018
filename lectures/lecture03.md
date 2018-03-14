@@ -209,7 +209,7 @@ Intuitively, asymptotic notation can be thought of as "relational operators" for
 >
 > ≤ ⇒ O()
 >
-> ≥ ⇒ ω()
+> ≥ ⇒ Ω()
 >
 > \< ⇒ o()
 >
