@@ -13,7 +13,7 @@ This page links to assignment descriptions.
 > Feb 23   | [Assignment 4](../assign/assign04.html)                  | [Assignment 4 Solutions](../assign/sol/assign04sol.pdf)|
 > Mar 9    | [Empirical Comparison Report](../assign/emp_comp.html)   |           |
 > Mar 21   | [Assignment 5](../assign/assign05.html)                  | [Assignment 5 Solutions](../assign/sol/assign05sol.pdf) |
-> Mar 28   | [Assignment 6](../assign/assign06.html)                  |  |
+> Mar 28   | [Assignment 6](../assign/assign06.html)                  | [Assignment 6 Solutions](../assign/sol/assign06sol.pdf) |
 > Apr 4    | [Assignment 7](../assign/assign07.html)                  |  |
 > Apr 18   | [Assignment 8](../assign/assign08.html)                  |  |
 > Apr 25   | [Assignment 9](../assign/assign09.html)                  |  |
