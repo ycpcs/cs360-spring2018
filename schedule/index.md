@@ -29,7 +29,7 @@ All reading materials are from the course textbook:
 > Mar 7     | Exam II Review |    |
 > Mar 9     | **EXAM II - Due Mar 14** <br /> **Empirical Comparison Report Due 3/9**               |             |
 > Mar 12    | [Lecture 12: Dynamic Programming - Rod Cutting](../lectures/lecture12.html) | Ch. 15 |
-> Mar 14    | [Lecture 13: Dynamic Programming - LCS](../lectures/lecture13.html) | Ch. 15 |
+> Mar 14    | [Lecture 13: Dynamic Programming - LCS](../lectures/lecture13.html) <br /> [LCS Practice Activity](../handouts/lecture13-LCS-Ex2.pdf) [LCS Solution](../handouts/lecture13-LCS-Ex2Sol.pdf) | Ch. 15 |
 > Mar 16    | [Lecture 14: Greedy Algorithms - Activity Selection](../lectures/lecture14.html) | Ch. 16 |
 > Mar 19    | [Lecture 15: Graph Theory](../lectures/lecture15.html) <br /> **Assignment 5 Due 3/21** | Appendix B.4 |
 > Mar 21    | [Lecture 16: Breadth-First Search](../lectures/lecture16.html) <br /> **Assignment 5 Due 3/21** | Ch. 22.2 |
