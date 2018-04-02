@@ -33,7 +33,7 @@ All reading materials are from the course textbook:
 > Mar 16    | [Lecture 14: Greedy Algorithms - Activity Selection](../lectures/lecture14.html) | Ch. 16 |
 > Mar 19    | [Lecture 15: Graph Theory](../lectures/lecture15.html) <br /> **Assignment 5 Due 3/21** | Appendix B.4 |
 > Mar 21    | [Lecture 16: Breadth-First Search](../lectures/lecture16.html) <br /> **Assignment 5 Due 3/21** | Ch. 22.2 |
-> Mar 23    | [Lecture 17: Depth-First Search](../lectures/lecture17.html) <br /> **Assignment 6 Due 3/28**  | Ch. 22.3 |
+> Mar 23    | [Lecture 17: Depth-First Search](../lectures/lecture17.html) <br /> [DFS Practice Activity](../handouts/lecture17-dfsact.pdf) [LCS Solution](../handouts/lecture17-dfsact-sol.pdf) <br /> **Assignment 6 Due 3/28** | Ch. 22.3 |
 > Mar 26    | [Lecture 18: DFS Applications](../lectures/lecture18.html) | Ch. 22.4-22.5 |
 > Mar 28    | [Lecture 19: Minimum Spanning Trees - Kruskal](../lectures/lecture19.html) | Ch. 23.1 |
 > Mar 30, Apr 2| **NO CLASS - SPRING BREAK** |   |
