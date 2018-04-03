@@ -38,6 +38,6 @@ All reading materials are from the course textbook:
 > Apr 18    | [Lecture 25: Maximal Flow- Ford-Fulkerson](../lectures/lecture25.html) | Ch. 26.2 |
 > Apr 20    | [Lecture 26: NP Completeness](../lectures/lecture26.html) | Ch. 34.1-34.3 |
 > Apr 23    | [Lecture 27: NP Complete Problems](../lectures/lecture27.html) | Ch. 34.4 |
-> Apr 25    | [Lecture 28: More NP Complete Problems](../lectures/lecture28.html) | Ch. 34.5 |
+> Apr 23    | [Lecture 28: More NP Complete Problems](../lectures/lecture28.html) | Ch. 34.5 |
 > Apr 30    | [Lecture 29: Approximation Algorithms](../lectures/lecture29.html) | Ch. 35.1-35.2 |
 

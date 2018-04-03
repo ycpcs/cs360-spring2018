@@ -33,7 +33,7 @@ All information about the course will be posted here.
 * **Apr 6 - EXAM III. Take home due in class Wed, Apr 11**
 * **Apr 18** - Assignment 8 Due
 * **Apr 25** - Assignment 9 Due
-* **Apr 27 - EXAM IV. Take home due in class Wed, May 2**
+* **Apr 25 - EXAM IV. Take home due in class Wed, May 2**
 * **May 7, 9 - Final Project Due.** Email a .pdf to dbabcock@ycp.edu by 5pm on 5/9 for the final report.
 
 <!--

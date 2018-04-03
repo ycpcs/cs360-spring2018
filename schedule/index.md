@@ -46,9 +46,9 @@ All reading materials are from the course textbook:
 > Apr 16    | [Lecture 24: Maximal Flow](../lectures/lecture24.html) | Ch. 26.1 |
 > Apr 18    | [Lecture 25: Maximal Flow- Ford-Fulkerson](../lectures/lecture25.html) <br /> [Max Flow Practice Activity](../handouts/lecture25-maxflowact.pdf) [Max Flow Solution](../handouts/lecture25-maxflowactsol.pdf) <br /> **Assignment 8 Due 4/18** | Ch. 26.2 |
 > Apr 20    | [Lecture 26: NP Completeness](../lectures/lecture26.html) | Ch. 34.1-34.3 |
-> Apr 23    | [Lecture 27: NP Complete Problems](../lectures/lecture27.html) | Ch. 34.4 |
-> Apr 25    | [Lecture 28: More NP Complete Problems](../lectures/lecture28.html) <br /> **Assignment 9 Due 4/25** | Ch. 34.5 |
-> Apr 27    | **Exam IV - Due May 2** |  |
+> Apr 23    | [Lecture 27: NP Complete Problems](../lectures/lecture27.html) <br /> [Lecture 28: More NP Complete Problems](../lectures/lecture28.html) | Ch. 34.4 |
+> Apr 25    | **Exam IV - Due May 2** <br /> **Assignment 9 Due 4/25** | Ch. 34.5 |
+> Apr 27    | **NO CLASS** |  |
 > Apr 30    | [Lecture 29: Approximation Algorithms](../lectures/lecture29.html) | Ch. 35.1-35.2 |
 > May 7,9   | **Final Project Presentations** |  |
 
