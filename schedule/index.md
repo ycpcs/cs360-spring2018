@@ -35,11 +35,11 @@ All reading materials are from the course textbook:
 > Mar 21    | [Lecture 16: Breadth-First Search](../lectures/lecture16.html) <br /> **Assignment 5 Due 3/21** | Ch. 22.2 |
 > Mar 23    | [Lecture 17: Depth-First Search](../lectures/lecture17.html) <br /> [DFS Practice Activity](../handouts/lecture17-dfsact.pdf) [DFS Solution](../handouts/lecture17-dfsact-sol.pdf) <br /> **Assignment 6 Due 3/28** | Ch. 22.3 |
 > Mar 26    | [Lecture 18: DFS Applications](../lectures/lecture18.html) <br /> [SCCD Practice Activity](../handouts/lecture18-sccex.pdf) [SCCD Solution](../handouts/lecture18-sccex-sol.pdf) | Ch. 22.4-22.5 |
-> Mar 28    | [Lecture 19: Minimum Spanning Trees - Kruskal](../lectures/lecture19.html) | Ch. 23.1 |
+> Mar 28    | [Lecture 19: Minimum Spanning Trees - Kruskal](../lectures/lecture19.html) <br /> [Kruskal Practice Activity](../handouts/lecture19-Kruskalact.pdf) [Kruskal Solution](../handouts/lecture19-Kruskalactsol.pdf) | Ch. 23.1 |
 > Mar 30, Apr 2| **NO CLASS - SPRING BREAK** |   |
 > Apr 4     | Exam III Review <br /> **Assignment 7 Due 4/4**  |    |
 > Apr 6     | **Exam III - Due Apr 11** |  |
-> Apr 9     | [Lecture 20: Minimum Spanning Trees - Prim](../lectures/lecture20.html) | Ch. 23.2 |
+> Apr 9     | [Lecture 20: Minimum Spanning Trees - Prim](../lectures/lecture20.html) <br /> [Prim Practice Activity](../handouts/lecture20-Primact.pdf) [Prim Solution](../handouts/lecture20-Primactsol.pdf) | Ch. 23.2 |
 > Apr 11    | [Lecture 21: Shortest Path - Bellman-Ford](../lectures/lecture21.html) | Ch. 24.1-24.2 |
 > Apr 13    | [Lecture 22: Shortest Path - Dijkstra](../lectures/lecture22.html) <br /> [SSSP Practice Activity](../handouts/lecture22-ssspact.pdf) [SSSP Solution](../handouts/lecture22-ssspactsol.pdf) | Ch. 24.3 |
 > Apr 13    | [Lecture 23: Shortest Path - Floyd-Warshall](../lectures/lecture23.html) | Ch. 25 |
